@@ -1,0 +1,19 @@
+{
+  "name": "tasklist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexknipfer/Angular-Tasklist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexknipfer/Angular-Tasklist/issues"
+  },
+  "homepage": "https://github.com/alexknipfer/Angular-Tasklist#readme"
+}
