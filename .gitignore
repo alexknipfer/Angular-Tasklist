@@ -1,4 +1,5 @@
 node_modules
 /client/node_modules
 /client/typings
+client/app/*.js
 env-config.js
