@@ -40,7 +40,7 @@ router.post('/task', (req, res, next) => {
   }
 })
 
-//Add a task
+//Delete a task
 router.delete('/task/:id', (req, res, next) => {
   db.tasks.remove({ _id: mongojs.ObjectId(req.params.id) }, (err, task) => {
     if (err) {
