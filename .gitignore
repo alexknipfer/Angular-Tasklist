@@ -2,4 +2,5 @@ node_modules
 /client/node_modules
 /client/typings
 client/app/*.js
+client/app/*.map
 env-config.js
